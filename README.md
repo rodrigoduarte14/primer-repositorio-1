@@ -1,2 +1,2 @@
-# primer-repositorio-1
-la neta noce que poner
+hacer un cambio
+y como crear un repositorio
